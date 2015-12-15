@@ -1,3 +1,3 @@
-hello, please go fast!
+hi, please go fast!
 
 I want to go home!
